@@ -135,3 +135,51 @@ body {
 		font-size: 13pt;
 	}
 }
+@media (max-width: 320px) {
+	header {
+		width: 480px;		
+	}
+	.assent {
+		text-align: center;
+		font-size: 45pt;
+		margin-left: 2px;
+		margin-top: 20px; 
+	}
+	.p2 {
+		float: center;
+		font-size: 24pt;
+		width: 480px;
+		position: absolute;
+		margin-top: -80px;
+		margin-left: 30px;
+	}
+	.logo {
+		width: 400px;
+		height: 400px;
+		margin-left: 50px;
+		margin-top: -80px;
+	}
+	.p4 {
+		width: 480px;
+		margin-left: 20px;
+		margin-top: 40px;
+		font-size: 14pt;
+	}
+	.p5 {
+		width: 480px;
+		margin-left: 25px;
+		margin-top: 10px
+	}
+	.p6 {
+		width: 480px;
+		margin-left: 5px;
+	}
+	.gradient-wrap {
+		margin-left: 240px;
+		margin-top: 450px;
+	}
+	.gradient-btn {
+		width: 400px;
+		font-size: 13pt;
+	}
+}
